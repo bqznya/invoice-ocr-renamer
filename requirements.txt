@@ -1,2 +1,8 @@
 Pillow
 pytesseract
+PyQt6 
+opencv-python 
+Pillow 
+lama-cleaner 
+numpy
+pytesseract
